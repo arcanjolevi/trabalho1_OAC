@@ -1,0 +1,8 @@
+.box {
+  position: absolute;
+  border: 3px solid #02020b;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+}

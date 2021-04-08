@@ -1,0 +1,34 @@
+#mux_pc {
+  width: 30px;
+  height: 70px;
+  top: 35px;
+  left: 870px;
+  border-color: #f49f0a;
+  color: #f49f0a;
+}
+
+#mux_pc_out0 {
+  width: 32px;
+  height: 160px;
+  border-color: #f49f0a;
+  border-width: 5px 0 0 0;
+  top: 90px;
+  left: 903px;
+}
+#mux_pc_out1 {
+  width: 920px;
+  height: 90px;
+  border-color: #f49f0a;
+  border-width: 5px 5px 0 0;
+  top: 0px;
+  left: 10px;
+}
+
+#mux_pc_out2 {
+  width: 10px;
+  height: 280px;
+  border-color: #f49f0a;
+  border-width: 0 0 5px 5px;
+  top: 0px;
+  left: 5px;
+}
