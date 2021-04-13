@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev":"tsc typescript/app.ts -w --outDir javascript"
+    "dev": "tsc -w"
   },
   "devDependencies": {
     "typescript": "^4.2.4",
