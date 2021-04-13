@@ -6,10 +6,7 @@
 
 ### Instruções do trabalho - Parte1
 
-#### # Implementar a máquina virtual RISC-V (monociclo ou multiciclo) em uma linguagem de
-
-programação de sua escolha. A máquina virtual RISC a ser implementada deve se capaz de
-executar o seguinte conjunto de instruções:
+#### # Implementar a máquina virtual RISC-V (monociclo ou multiciclo) em uma linguagem de programação de sua escolha. A máquina virtual RISC a ser implementada deve se capaz de executar o seguinte conjunto de instruções:
 
 - add
 - sub
