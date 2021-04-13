@@ -1,1 +1,1 @@
-var sayHello = function () { return console.log('Hello Wolrd!'); };
+var sayHello = function () { return alert('Hello Wolrd!'); };

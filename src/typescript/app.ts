@@ -1,1 +1,1 @@
-const sayHello = () => console.log('Hello Wolrd!');
+const sayHello = () => alert('Hello Wolrd!');
